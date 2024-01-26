@@ -1,4 +1,4 @@
-#List of Posts
+# List of Posts
 
 - [Preview page](https://list-of-posts.netlify.app/)
 
